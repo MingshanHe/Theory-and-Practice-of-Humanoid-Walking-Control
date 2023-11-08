@@ -1,0 +1,26 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/opt/ros/noetic/include/**",
+        "/home/robot/humanoid_ws/src/DynamixelSDK/c++/include/**",
+        "/home/robot/humanoid_ws/src/Humanoid2020FallHW/dyros_jet_controller/include/**",
+        "/home/robot/humanoid_ws/src/Humanoid2020FallHW/dyros_jet_dynamixel_x_interface/include/**",
+        "/home/robot/humanoid_ws/src/Humanoid2020FallHW/dyros_jet_gui/include/**",
+        "/home/robot/humanoid_ws/src/Humanoid2020FallHW/dyros_jet_haptic/include/**",
+        "/home/robot/humanoid_ws/src/mujoco_ros_sim/mujoco_ros/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}

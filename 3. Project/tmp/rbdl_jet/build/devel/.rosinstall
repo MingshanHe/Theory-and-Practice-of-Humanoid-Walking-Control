@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/robot/humanoid_ws/src/tmp/rbdl_jet/build/devel/setup.sh
